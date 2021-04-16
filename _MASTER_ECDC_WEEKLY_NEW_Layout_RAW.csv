@@ -324,7 +324,7 @@ America (total);;America;1021703563;cases;1261953;2021-10;232.798248546384;53497
 America (total);;America;1021703563;cases;1162606;2021-11;237.305524596668;54659860;Epidemic intelligence, national weekly data
 America (total);;America;1021703563;cases;1424841;2021-12;253.248309363095;56084701;Epidemic intelligence, national weekly data
 America (total);;America;1021703563;cases;1230269;2021-13;259.870876069363;57314970;Epidemic intelligence, national weekly data
-America (total);;America;1021703563;cases;1814958;2021-14;298.053869075134;59129928;Epidemic intelligence, national weekly data
+America (total);;America;1021703563;cases;1631068;2021-14;280.055497858727;58946038;Epidemic intelligence, national weekly data
 Andorra;AND;Europe;76177;cases;5;2020-11;;5;Epidemic intelligence, national weekly data
 Andorra;AND;Europe;76177;cases;108;2020-12;148.33873741418;113;Epidemic intelligence, national weekly data
 Andorra;AND;Europe;76177;cases;221;2020-13;431.88889034748;334;Epidemic intelligence, national weekly data
@@ -1367,8 +1367,8 @@ Belgium;BEL;Europe;11522440;cases;16569;2021-09;289.461259941471;789653;Epidemic
 Belgium;BEL;Europe;11522440;cases;21401;2021-10;329.530897969527;811054;Epidemic intelligence, national weekly data
 Belgium;BEL;Europe;11522440;cases;29403;2021-11;440.913556503657;840457;Epidemic intelligence, national weekly data
 Belgium;BEL;Europe;11522440;cases;33866;2021-12;549.09376833379;874323;Epidemic intelligence, national weekly data
-Belgium;BEL;Europe;11522440;cases;29768;2021-13;552.261500168367;904091;Epidemic intelligence, national weekly data
-Belgium;BEL;Europe;11522440;cases;23978;2021-14;466.446342962081;928069;Epidemic intelligence, national weekly data
+Belgium;BEL;Europe;11522440;cases;29779;2021-13;552.356966059272;904102;Epidemic intelligence, national weekly data
+Belgium;BEL;Europe;11522440;cases;24050;2021-14;467.166676502546;928152;Epidemic intelligence, national weekly data
 Belize;BLZ;America;397621;cases;2;2020-13;;2;Epidemic intelligence, national weekly data
 Belize;BLZ;America;397621;cases;3;2020-14;1.25747885549305;5;Epidemic intelligence, national weekly data
 Belize;BLZ;America;397621;cases;9;2020-15;3.01794925318331;14;Epidemic intelligence, national weekly data
@@ -4134,10 +4134,10 @@ EU/EEA (total);;Europe;453090377;cases;653102;2021-07;283.706533012508;21767036;
 EU/EEA (total);;Europe;453090377;cases;682110;2021-08;294.689992941519;22449146;Epidemic intelligence, national weekly data
 EU/EEA (total);;Europe;453090377;cases;806613;2021-09;328.570871413586;23255759;Epidemic intelligence, national weekly data
 EU/EEA (total);;Europe;453090377;cases;920462;2021-10;381.176711682844;24176221;Epidemic intelligence, national weekly data
-EU/EEA (total);;Europe;453090377;cases;1044130;2021-11;433.598262008553;25220351;Epidemic intelligence, national weekly data
-EU/EEA (total);;Europe;453090377;cases;1173229;2021-12;489.385586752375;26393580;Epidemic intelligence, national weekly data
-EU/EEA (total);;Europe;453090377;cases;1120272;2021-13;506.190622538867;27513852;Epidemic intelligence, national weekly data
-EU/EEA (total);;Europe;453090377;cases;982603;2021-14;464.118221605929;28496455;Epidemic intelligence, national weekly data
+EU/EEA (total);;Europe;453090377;cases;1044129;2021-11;433.598041302034;25220350;Epidemic intelligence, national weekly data
+EU/EEA (total);;Europe;453090377;cases;1173230;2021-12;489.385586752375;26393580;Epidemic intelligence, national weekly data
+EU/EEA (total);;Europe;453090377;cases;1120283;2021-13;506.193271017098;27513863;Epidemic intelligence, national weekly data
+EU/EEA (total);;Europe;453090377;cases;982675;2021-14;464.136540247025;28496538;Epidemic intelligence, national weekly data
 Europe (total);;Europe;851186002;cases;0;2020-01;;0;Epidemic intelligence, national weekly data
 Europe (total);;Europe;851186002;cases;0;2020-02;0.0;0;Epidemic intelligence, national weekly data
 Europe (total);;Europe;851186002;cases;0;2020-03;0.0;0;Epidemic intelligence, national weekly data
@@ -4201,10 +4201,10 @@ Europe (total);;Europe;851186002;cases;975051;2021-07;226.211309334948;36609384;
 Europe (total);;Europe;851186002;cases;1006464;2021-08;232.794594288923;37615848;Epidemic intelligence, national weekly data
 Europe (total);;Europe;851186002;cases;1140501;2021-09;252.232178977962;38756349;Epidemic intelligence, national weekly data
 Europe (total);;Europe;851186002;cases;1264516;2021-10;282.548936936113;40020865;Epidemic intelligence, national weekly data
-Europe (total);;Europe;851186002;cases;1486027;2021-11;323.142414646993;41506892;Epidemic intelligence, national weekly data
-Europe (total);;Europe;851186002;cases;1681739;2021-12;372.159080689393;43188631;Epidemic intelligence, national weekly data
-Europe (total);;Europe;851186002;cases;1694321;2021-13;396.630112815225;44882952;Epidemic intelligence, national weekly data
-Europe (total);;Europe;851186002;cases;1638509;2021-14;391.551316888315;46521461;Epidemic intelligence, national weekly data
+Europe (total);;Europe;851186002;cases;1486026;2021-11;323.142297163858;41506891;Epidemic intelligence, national weekly data
+Europe (total);;Europe;851186002;cases;1681740;2021-12;372.159080689393;43188631;Epidemic intelligence, national weekly data
+Europe (total);;Europe;851186002;cases;1694332;2021-13;396.631522612845;44882963;Epidemic intelligence, national weekly data
+Europe (total);;Europe;851186002;cases;1638581;2021-14;391.561067988522;46521544;Epidemic intelligence, national weekly data
 Falkland Islands;FLK;America;3483;cases;2;2020-14;;2;Epidemic intelligence, national weekly data
 Falkland Islands;FLK;America;3483;cases;3;2020-15;143.554407120299;5;Epidemic intelligence, national weekly data
 Falkland Islands;FLK;America;3483;cases;6;2020-16;258.397932816538;11;Epidemic intelligence, national weekly data
@@ -7758,7 +7758,7 @@ Mexico;MEX;America;128932753;cases;37252;2021-10;60.844120810792;2167729;Epidemi
 Mexico;MEX;America;128932753;cases;29431;2021-11;51.7192090050229;2197160;Epidemic intelligence, national weekly data
 Mexico;MEX;America;128932753;cases;30682;2021-12;46.6235293990814;2227842;Epidemic intelligence, national weekly data
 Mexico;MEX;America;128932753;cases;23863;2021-13;42.3049991029044;2251705;Epidemic intelligence, national weekly data
-Mexico;MEX;America;128932753;cases;221489;2021-14;190.29454835266;2473194;Epidemic intelligence, national weekly data
+Mexico;MEX;America;128932753;cases;37599;2021-14;47.6698112542435;2289304;Epidemic intelligence, national weekly data
 Micronesia;FSM;Oceania;115021;cases;0;2021-01;;0;Epidemic intelligence, national weekly data
 Micronesia;FSM;Oceania;115021;cases;0;2021-02;0.0;0;Epidemic intelligence, national weekly data
 Micronesia;FSM;Oceania;115021;cases;0;2021-03;0.0;0;Epidemic intelligence, national weekly data
@@ -11218,9 +11218,9 @@ Sweden;SWE;Europe;10327589;cases;23618;2021-07;434.80622631284;639483;Epidemic i
 Sweden;SWE;Europe;10327589;cases;26694;2021-08;487.161137028207;666177;Epidemic intelligence, national weekly data
 Sweden;SWE;Europe;10327589;cases;27758;2021-09;527.247937538955;693935;Epidemic intelligence, national weekly data
 Sweden;SWE;Europe;10327589;cases;28566;2021-10;545.374142987294;722501;Epidemic intelligence, national weekly data
-Sweden;SWE;Europe;10327589;cases;33042;2021-11;596.538069049804;755543;Epidemic intelligence, national weekly data
-Sweden;SWE;Europe;10327589;cases;37900;2021-12;686.917343438047;793443;Epidemic intelligence, national weekly data
-Sweden;SWE;Europe;10327589;cases;38416;2021-13;738.952721685575;831859;Epidemic intelligence, national weekly data
+Sweden;SWE;Europe;10327589;cases;33041;2021-11;596.528386247749;755542;Epidemic intelligence, national weekly data
+Sweden;SWE;Europe;10327589;cases;37901;2021-12;686.917343438047;793443;Epidemic intelligence, national weekly data
+Sweden;SWE;Europe;10327589;cases;38416;2021-13;738.96240448763;831859;Epidemic intelligence, national weekly data
 Sweden;SWE;Europe;10327589;cases;41176;2021-14;770.673581220167;873035;Epidemic intelligence, national weekly data
 Switzerland;CHE;Europe;8606033;cases;0;2020-01;;0;Epidemic intelligence, national weekly data
 Switzerland;CHE;Europe;8606033;cases;0;2020-02;0.0;0;Epidemic intelligence, national weekly data
